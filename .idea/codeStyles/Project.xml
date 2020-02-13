@@ -3,9 +3,12 @@
     <ScalaCodeStyleSettings>
       <option name="alwaysUsedImports">
         <array>
-          <option value="scala.io.Source" />
+          <option value="java.util.Arrays" />
         </array>
       </option>
     </ScalaCodeStyleSettings>
+    <codeStyleSettings language="JAVA">
+      <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
+    </codeStyleSettings>
   </code_scheme>
 </component>
