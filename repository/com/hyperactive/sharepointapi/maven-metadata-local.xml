@@ -3,10 +3,11 @@
   <groupId>com.hyperactive</groupId>
   <artifactId>sharepointapi</artifactId>
   <versioning>
-    <release>0.2.0</release>
+    <release>0.2.0-sources</release>
     <versions>
       <version>0.2.0</version>
+      <version>0.2.0-sources</version>
     </versions>
-    <lastUpdated>20200328104221</lastUpdated>
+    <lastUpdated>20200330033049</lastUpdated>
   </versioning>
 </metadata>
